@@ -1,1 +1,2 @@
 print("Myworld")
+print("Created new class")
